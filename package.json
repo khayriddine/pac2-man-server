@@ -1,0 +1,19 @@
+{
+  "name": "pac2manserver",
+  "version": "1.0.0",
+  "description": "Server side of the pac2man game to handle communication between players",
+  "main": "main.js",
+  "scripts": {
+    "test": "npm testme"
+  },
+  "keywords": [
+    "unity",
+    "websocket",
+    "pac2man"
+  ],
+  "author": "khayriwinou",
+  "license": "MIT",
+  "dependencies": {
+    "ws": "^7.3.1"
+  }
+}
